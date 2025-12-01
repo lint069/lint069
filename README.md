@@ -1,1 +1,1 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lint069&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+I have some experience with Lua, and I want to start writing C sometime soon.
