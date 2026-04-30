@@ -1,1 +1,1 @@
-I want to learn `c`, `c++` and `rust` sometime soon.
+I'm learning `C` and want to learn `rust` sometime soon.
